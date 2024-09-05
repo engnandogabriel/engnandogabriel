@@ -49,7 +49,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/engnandogabriel/engnandogabriel/output/snake.svg" alt="Snake animation" />
+<p align="left">Rede de Comunicação</p>
 
 ###
 
@@ -70,9 +70,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/engnandogabriel/count.svg?"  />
 </div>
-
-###
-
-<p align="left">Social Med</p>
 
 ###
